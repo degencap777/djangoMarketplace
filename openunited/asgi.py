@@ -16,3 +16,5 @@ os.environ.setdefault(
 )
 
 application = get_asgi_application()
+
+print(123123123)

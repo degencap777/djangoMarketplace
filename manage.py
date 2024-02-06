@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+from utility.init import Init
 import os
 import sys
 
-
 def main():
+    
     """Run administrative tasks."""
     os.environ.setdefault(
         "DJANGO_SETTINGS_MODULE", os.environ.get("DJANGO_SETTINGS_MODULE")
