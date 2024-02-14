@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
-from utility.init import Init
+# from utility.init import Init
 import os
 import sys
 
