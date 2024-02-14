@@ -1,3 +1,6 @@
+![OpenUnited](https://github.com/twinstarhub/Django-marketplace/assets/108885340/a74021ea-9e83-4b79-b944-6f367cf906d9)
+
+
 ## Setting Up Your Development Environment
 
 ### Without Docker
