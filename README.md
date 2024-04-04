@@ -1,4 +1,4 @@
-![OpenUnited](https://github.com/twinstarhub/Django-marketplace/assets/108885340/a74021ea-9e83-4b79-b944-6f367cf906d9)
+![304739666-a74021ea-9e83-4b79-b944-6f367cf906d9](https://github.com/libraiger/djangoMarketplace/assets/48214830/34206574-7abe-499b-9d87-e613042c82d9)
 
 
 ## Setting Up Your Development Environment
